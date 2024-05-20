@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396418135557",
+    "project_id": "appaulavii",
+    "storage_bucket": "appaulavii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396418135557:android:77f280156fb6a86df3ce6c",
+        "android_client_info": {
+          "package_name": "br.com.claudio.appdeeplink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUpYSkdDsHQNV8OpZkFsWSxgDCcC-HtGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
